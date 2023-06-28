@@ -1,6 +1,6 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!   
-Last update at time 11:20
+Last update at time 13:38
 ```R
 
            Gio 1 ┤■■■■■■■■■■■■■■■■■■■■■■■ 89.16   
