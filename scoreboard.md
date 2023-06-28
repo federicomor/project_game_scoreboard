@@ -1,6 +1,6 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!   
-Last update at time 11:08
+Last update at time 11:13
 ```R
 
       Fede_Mor 1 ┤■■■■■■■■■■■■■■■■■■■■■■■ 90.16   
