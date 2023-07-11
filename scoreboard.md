@@ -1,10 +1,10 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!   
-Last update at time 14:13
+Last update at time 14:15
 ```R
 
-   MarcoDamilano 1 ┤■■■■■■■■■■■■■■■■■■■■■■ 2.9008   
-        Fede_Mor 2 ┤■■■■■■■■■■ 1.2819               
-       Giuliamzz 3 ┤■■■■■■■■ 1                      
+   MarcoDamilano 1 ┤■■■■■■■■■■■■■■■■■■■■■ 191.083   
+        Fede_Mor 2 ┤■■■ 29.1947                     
+       Giuliamzz 3 ┤ 1                              
 
 ```
