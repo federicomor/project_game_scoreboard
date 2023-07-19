@@ -1,6 +1,6 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!   
-Last update at time 11:52
+Last update at time 11:56
 ```R
 
    MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■ 270.245   
