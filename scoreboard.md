@@ -1,7 +1,8 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!      
-Last update at time 18:39      
+Last update at time 18:41      
 
+*Scores have been scaled into [0,100] to make you feel more the challenge!*    
 ```R
 
    MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■■■■■ 100   
