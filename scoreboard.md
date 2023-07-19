@@ -5,9 +5,9 @@ Last update at time 17:58
 *Scores have not been scaled (just shifted to be positive for plotting) to better highlight subtle differences among players!*    
 ```R
 
-   MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■■ 2.0509   
-       Giuliamzz [DNK] 2 ┤■■■■■■■■■■■■■■■■■ 1.6168        
-     eTTore00000 [POL] 3 ┤■■■■■■■■■■■■ 1.1184             
-        Fede_Mor [SVN] 4 ┤ 0.0041                         
+   MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■■ 2.2377   
+       Giuliamzz [DNK] 2 ┤■■■■■■■■■■■■■■■■■■ 1.8036       
+     eTTore00000 [POL] 3 ┤■■■■■■■■■■■■■ 1.3053            
+        Fede_Mor [SVN] 4 ┤■■ 0.1909                       
 
 ```
