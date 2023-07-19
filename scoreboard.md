@@ -4,9 +4,9 @@ Last update at time 18:38
 
 ```R
 
-   MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■ 148.857   
-       Giuliamzz [DNK] 2 ┤■■■■■■■■■■■■■■■■■■ 127.647      
-     eTTore00000 [POL] 3 ┤■■■■■■■■■■■■■■■ 103.299         
-        Fede_Mor [SVN] 4 ┤■■■■■■■ 48.8568                 
+   MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■■■■■ 100   
+       Giuliamzz [DNK] 2 ┤■■■■■■■■■■■■■■■■■■■■ 78.7901    
+     eTTore00000 [POL] 3 ┤■■■■■■■■■■■■■■ 54.4426          
+        Fede_Mor [SVN] 4 ┤ 0                              
 
 ```
