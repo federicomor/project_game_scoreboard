@@ -1,10 +1,12 @@
 # 🚩 Live Scoreboard
-Game ends at 19:00!   
-Last update at time 15:56
+Game ends at 19:00!
+Last update at time 17:44
+Scores have been scaled to better see the differences among players.
 ```R
 
-   MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■ 764.073   
-        Fede_Mor [ESP] 2 ┤■■■■■■■■■■■■■■■■■ 636.14        
-       Giuliamzz [SVK] 3 ┤■■■■■■■■■■■ 398.852             
+   MarcoDamilano [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■ 473.796   
+       Giuliamzz [DNK] 2 ┤■■■■■■■■■■■■■■■■■ 391.313       
+     eTTore00000 [POL] 3 ┤■■■■■■■■■■■■■ 296.627           
+        Fede_Mor [SVN] 4 ┤■■■■ 84.9047                    
 
 ```
