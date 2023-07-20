@@ -1,6 +1,6 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!      
-Last update at time 11:48      
+Last update at time 11:53      
 
 *Scores have been scaled to [0,100].*    
 ```R
@@ -13,7 +13,8 @@ Last update at time 11:48
       kidandre98 [ESP] 6 ┤■■■■■■■■■■■■■■■■■■■■■■■ 92.7666  
     Stefano_pina [HRV] 7 ┤■■■■■■■■■■ 41.7713              
           Llenzi [FRA] 8 ┤■■■■■■■ 28.8341                 
-        tuccio99 [FRA] 9 ┤■■■■■■■ 26.7717                 
-        angedak [FRA] 10 ┤■■■■■■ 24.7064                  
+        Riccardo [SVN] 9 ┤■■■■■■■ 28.1681                 
+       tuccio99 [FRA] 10 ┤■■■■■■■ 26.7717                 
+        angedak [FRA] 11 ┤■■■■■■ 24.7064                  
 
 ```
