@@ -14,13 +14,14 @@ Last update at time 12:45
             kidandre98 [ESP] 7 ┤■■■■■■■■■■■■■■■■■■■■■■■■ 94.335  
          rossanacometa [ESP] 8 ┤■■■■■■■■■■■■■■■■■■■■■■■ 92.5977  
      Mattia_Ballardini [ESP] 9 ┤■■■■■■■■■■■■■■■■■■■■■■■ 91.9649  
-            Ale_piana [HRV] 10 ┤■■■■■■■■■■■■■■ 57.0954          
-         Stefano_pina [HRV] 11 ┤■■■■■■■■■■■■■■ 54.3969          
-           carlobaroz [DNK] 12 ┤■■■■■■■■■■■■■ 53.7776           
-               Llenzi [FRA] 13 ┤■■■■■■■■■■■ 44.2647             
-             Riccardo [SVN] 14 ┤■■■■■■■■■■■ 43.7432             
-             tuccio99 [FRA] 15 ┤■■■■■■■■■■■ 42.6496             
-              angedak [FRA] 16 ┤■■■■■■■■■■ 41.0321              
-   Topino_parmareggio [POL] 17 ┤ 0                              
+             Eleonora [HRV] 10 ┤■■■■■■■■■■■■■■■■ 62.1834        
+            Ale_piana [HRV] 11 ┤■■■■■■■■■■■■■■ 57.0954          
+         Stefano_pina [HRV] 12 ┤■■■■■■■■■■■■■■ 54.3969          
+           carlobaroz [DNK] 13 ┤■■■■■■■■■■■■■ 53.7776           
+               Llenzi [FRA] 14 ┤■■■■■■■■■■■ 44.2647             
+             Riccardo [SVN] 15 ┤■■■■■■■■■■■ 43.7432             
+             tuccio99 [FRA] 16 ┤■■■■■■■■■■■ 42.6496             
+              angedak [FRA] 17 ┤■■■■■■■■■■ 41.0321              
+   Topino_parmareggio [POL] 18 ┤ 0                              
 
 ```
