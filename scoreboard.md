@@ -1,6 +1,6 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!      
-Last update at time 12:45      
+Last update at time 13:04      
 
 *Scores have been scaled to [0,100].*    
 ```R
@@ -18,10 +18,11 @@ Last update at time 12:45
             Ale_piana [HRV] 11 ┤■■■■■■■■■■■■■■ 57.0954          
          Stefano_pina [HRV] 12 ┤■■■■■■■■■■■■■■ 54.3969          
            carlobaroz [DNK] 13 ┤■■■■■■■■■■■■■ 53.7776           
-               Llenzi [FRA] 14 ┤■■■■■■■■■■■ 44.2647             
-             Riccardo [SVN] 15 ┤■■■■■■■■■■■ 43.7432             
-             tuccio99 [FRA] 16 ┤■■■■■■■■■■■ 42.6496             
-              angedak [FRA] 17 ┤■■■■■■■■■■ 41.0321              
-   Topino_parmareggio [POL] 18 ┤ 0                              
+                v4146 [FRA] 14 ┤■■■■■■■■■■■■ 46.3787            
+               Llenzi [FRA] 15 ┤■■■■■■■■■■■ 44.2647             
+             Riccardo [SVN] 16 ┤■■■■■■■■■■■ 43.7432             
+             tuccio99 [FRA] 17 ┤■■■■■■■■■■■ 42.6496             
+              angedak [FRA] 18 ┤■■■■■■■■■■ 41.0321              
+   Topino_parmareggio [POL] 19 ┤ 0                              
 
 ```
