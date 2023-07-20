@@ -17,15 +17,16 @@ Last update at time 13:58
                lindtt [ESP] 10 ┤■■■■■■■■■■■■■■■■■■■ 76.5384     
         rossanacometa [ESP] 11 ┤■■■■■■■■■■■■■■■■■■■ 75.7204     
     Mattia_Ballardini [ESP] 12 ┤■■■■■■■■■■■■■■■■■■■ 75.2029     
-             Eleonora [HRV] 13 ┤■■■■■■■■■■■■■ 50.8495           
-            Ale_piana [HRV] 14 ┤■■■■■■■■■■■■ 46.6888            
-         Stefano_pina [HRV] 15 ┤■■■■■■■■■■■ 44.4822             
-           carlobaroz [DNK] 16 ┤■■■■■■■■■■■ 43.9758             
-                v4146 [FRA] 17 ┤■■■■■■■■■ 37.9255               
-               Llenzi [FRA] 18 ┤■■■■■■■■■ 36.1968               
-             Riccardo [SVN] 19 ┤■■■■■■■■■ 35.7703               
-             tuccio99 [FRA] 20 ┤■■■■■■■■■ 34.876                
-              angedak [FRA] 21 ┤■■■■■■■■ 33.5533                
-   Topino_parmareggio [POL] 22 ┤ 0                              
+           celeste_db [GRC] 13 ┤■■■■■■■■■■■■■■■■■ 68.3103       
+             Eleonora [HRV] 14 ┤■■■■■■■■■■■■■ 50.8495           
+            Ale_piana [HRV] 15 ┤■■■■■■■■■■■■ 46.6888            
+         Stefano_pina [HRV] 16 ┤■■■■■■■■■■■ 44.4822             
+           carlobaroz [DNK] 17 ┤■■■■■■■■■■■ 43.9758             
+                v4146 [FRA] 18 ┤■■■■■■■■■ 37.9255               
+               Llenzi [FRA] 19 ┤■■■■■■■■■ 36.1968               
+             Riccardo [SVN] 20 ┤■■■■■■■■■ 35.7703               
+             tuccio99 [FRA] 21 ┤■■■■■■■■■ 34.876                
+              angedak [FRA] 22 ┤■■■■■■■■ 33.5533                
+   Topino_parmareggio [POL] 23 ┤ 0                              
 
 ```
