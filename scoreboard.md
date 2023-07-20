@@ -6,8 +6,8 @@ Last update at time 10:48
 ```R
 
    NicoleFontana [ESP] 1 ┤■■■■■■■■■■■■■■■■■■■■■■■■■ 100   
-        Fede_Mor [ESP] 2 ┤■■■■■■■■■■■■■■■■■■■■■■■■ 94.6598  
-        tuccio99 [FRA] 3 ┤■■■■ 16.4507                    
-      kidandre98 [ESP] 4 ┤ 0                              
+        Fede_Mor [ESP] 2 ┤■■■■■■■■■■■■■■■■■■■■■■■■ 95.4142  
+      kidandre98 [ESP] 3 ┤■■■■■■■■■■■■■■■■■■■■■■■ 92.9129  
+        tuccio99 [FRA] 4 ┤■■■■■■■ 28.2535                 
 
 ```
