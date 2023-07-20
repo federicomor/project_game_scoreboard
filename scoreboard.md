@@ -13,11 +13,12 @@ Last update at time 12:27
           kidandre98 [ESP] 6 ┤■■■■■■■■■■■■■■■■■■■■■■■ 92.7666  
        rossanacometa [ESP] 7 ┤■■■■■■■■■■■■■■■■■■■■■■■ 90.5484  
    Mattia_Ballardini [ESP] 8 ┤■■■■■■■■■■■■■■■■■■■■■■ 89.7403  
-        Stefano_pina [HRV] 9 ┤■■■■■■■■■■ 41.7713              
-         carlobaroz [DNK] 10 ┤■■■■■■■■■■ 40.9807              
-             Llenzi [FRA] 11 ┤■■■■■■■ 28.8341                 
-           Riccardo [SVN] 12 ┤■■■■■■■ 28.1681                 
-           tuccio99 [FRA] 13 ┤■■■■■■■ 26.7717                 
-            angedak [FRA] 14 ┤■■■■■■ 24.7064                  
+           Ale_piana [HRV] 9 ┤■■■■■■■■■■■ 45.2169             
+       Stefano_pina [HRV] 10 ┤■■■■■■■■■■ 41.7713              
+         carlobaroz [DNK] 11 ┤■■■■■■■■■■ 40.9807              
+             Llenzi [FRA] 12 ┤■■■■■■■ 28.8341                 
+           Riccardo [SVN] 13 ┤■■■■■■■ 28.1681                 
+           tuccio99 [FRA] 14 ┤■■■■■■■ 26.7717                 
+            angedak [FRA] 15 ┤■■■■■■ 24.7064                  
 
 ```
