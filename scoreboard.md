@@ -1,6 +1,6 @@
 # 🚩 Live Scoreboard
 Game ends at 19:00!      
-Last update at time 14:35      
+Last update at time 09:53      
 
 *Scores have been scaled to [0,100].*    
 ```R
